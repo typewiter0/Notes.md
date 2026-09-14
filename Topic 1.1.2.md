@@ -35,8 +35,8 @@
 ### Summary Box
 
 > **Key Takeaway**  
-> Maps are categorized into **reference maps** (general navigation) and **thematic maps** (data visualization like choropleth, dot, isoline, graduated symbol, and cartograms)[cite: 1]. Spatial analysis relies on recognizing patterns—such as clustered, linear, or dispersed distributions—alongside spatial metrics like scale, elevation, absolute/relative location, and distance[cite: 1]. Because projecting a 3D Earth onto a 2D plane creates unavoidable distortions, selecting an appropriate projection (Mercator, Peters, Conic, or Robinson) depends on whether direction, area, or visual balance is prioritized[cite: 1].
+> Maps are categorized into **reference maps** (general navigation) and **thematic maps** (data visualization like choropleth, dot, isoline, graduated symbol, and cartograms). Spatial analysis relies on recognizing patterns—such as clustered, linear, or dispersed distributions—alongside spatial metrics like scale, elevation, absolute/relative location, and distance. Because projecting a 3D Earth onto a 2D plane creates unavoidable distortions, selecting an appropriate projection (Mercator, Peters, Conic, or Robinson) depends on whether direction, area, or visual balance is prioritized.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mzg1MjYxLDE5MTI4Njg3OSwtMjAxNj
-g3OTM4N119
+eyJoaXN0b3J5IjpbLTExNjQ2MDExNDEsMTkxMjg2ODc5LC0yMD
+E2ODc5Mzg3XX0=
 -->
