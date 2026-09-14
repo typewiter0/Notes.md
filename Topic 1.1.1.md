@@ -1,8 +1,8 @@
 
 
 
->> Written with [StackEdit](https://stackedit.io/).
-> # Topic 1.1: Introduction to Maps (Part 1: Maps, Scale & Location)
+> Written with [StackEdit](https://stackedit.io/).
+ # Topic 1.1: Introduction to Maps (Part 1: Maps, Scale & Location)
 
 ----------
 
@@ -96,5 +96,5 @@ Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
 
 Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTY3MTE4OV19
+eyJoaXN0b3J5IjpbNzg0OTE3MTk3LDEwOTE2NzExODldfQ==
 -->
