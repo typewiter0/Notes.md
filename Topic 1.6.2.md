@@ -8,19 +8,19 @@
 
 ### Impact of Zooming In: Life Expectancy Example
 
-Changing the aggregation level on national-scale maps completely transforms spatial analysis[cite: 7]:
+Changing the aggregation level on national-scale maps completely transforms spatial analysis:
 
--   **U.S. National Average (2020):** 77.8 years[cite: 7].
--   **State Level:** Highlights broader regional clusters above or below the national average[cite: 7].
--   **Census Tract / Local Scale:** Reveals extreme neighborhood-level variations, helping local governments target healthcare interventions[cite: 7].
+-   **U.S. National Average (2020):** 77.8 years.
+-   **State Level:** Highlights broader regional clusters above or below the national average.
+-   **Census Tract / Local Scale:** Reveals extreme neighborhood-level variations, helping local governments target healthcare interventions.
 
 ----------
 
 ### Scale of Analysis in Graphs & Visuals
 
-Applying scale of analysis to charts, graphs, and images requires evaluating the bounds and limits of the underlying data[cite: 7].
+Applying scale of analysis to charts, graphs, and images requires evaluating the bounds and limits of the underlying data.
 
--   **Global Pattern Example:** World average life expectancy grew from 30 years in 1850 to over 70 years in 2015[cite: 7].
+-   **Global Pattern Example:** World average life expectancy grew from 30 years in 1850 to over 70 years in 2015.
 -   **National Pattern Example:** U.S. life expectancy rose steadily from 40 years in the late 1800s to nearly 80 years in 2015.
 -   **Data Scale Limitations:** A country-level graph cannot answer questions about specific local communities because it lacks granular detail.
 
@@ -50,5 +50,5 @@ Applying scale of analysis to charts, graphs, and images requires evaluating the
 > **Key Takeaway**  
 > Scale of analysis dictates how geographers observe, interpret, and explain spatial patterns. Data **aggregation** (by country, state, county, or census tract) can either conceal or reveal local variations. To avoid drawing **false conclusions**, geographical claims must always align directly with the scale of the data being analyzed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI0NzU0NzddfQ==
+eyJoaXN0b3J5IjpbLTExMjY1MzYyMzldfQ==
 -->
