@@ -53,8 +53,8 @@ T:Simple Scale
 M:4/4
 L:1/4
 K:C
-CDEF|
+CDEF|GABc
 ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk5MTkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE3OTU0NzQ2ODhdfQ==
 -->
