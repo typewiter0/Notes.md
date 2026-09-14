@@ -22,12 +22,8 @@
 
 ### Geospatial Technologies
 
-Technology
-
-Description
-
-Everyday & Professional Uses
-
+| Technology | Description | Everyday & Professional Uses |
+|-|-|-|
 **Global Positioning System (GPS)**
 
 Receivers calculate exact position using satellite signals.
@@ -44,21 +40,21 @@ Cameras/sensors on aircraft or satellites capture Earth's surface images.
 
 Computer systems that store, analyze, and display layered geospatial data sets.
 
-• Urban planning<br>• Analyzing crime hotspots & pollution<br>• Transport & travel time analysis[cite: 4]
+• Urban planning<br>• Analyzing crime hotspots & pollution<br>• Transport & travel time analysis
 
 **Location-Aware Applications**
 
-Mobile software utilizing location data from smartphones/devices[cite: 4].
+Mobile software utilizing location data from smartphones/devices.
 
-• Routing & business recommendations[cite: 4]<br>• Contact tracing for disease exposure[cite: 4]<br>• Geotagging photos[cite: 4]
+• Routing & business recommendations<br>• Contact tracing for disease exposure<br>• Geotagging photos
 
 ----------
 
 ### Community-Based Solutions
 
-Geographers use spatial tools alongside ground-level field observations to address humanitarian crises (e.g., water scarcity in the Nuba Mountains of Sudan)[cite: 4].
+Geographers use spatial tools alongside ground-level field observations to address humanitarian crises (e.g., water scarcity in the Nuba Mountains of Sudan).
 
-> **Community-Based Solutions:** Problem-solving approaches involving local residents[cite: 4]. They build local buy-in, ensure cultural acceptance, and increase long-term project success[cite: 4].
+> **Community-Based Solutions:** Problem-solving approaches involving local residents. They build local buy-in, ensure cultural acceptance, and increase long-term project success.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc3ODU5M119
+eyJoaXN0b3J5IjpbLTE4MjY3OTg2MjJdfQ==
 -->
