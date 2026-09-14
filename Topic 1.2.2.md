@@ -14,15 +14,8 @@
 |-|-|-|
 | **Maps** | Visualizes spatial patterns and broad distributions. |Global life expectancy regions. |
 | **Graphs** | Displays trends over time across different variables. | Life expectancy changes from 1770 to 2015. |
-| **Data Tables** |Provides exact quantitative numbers and precise changes.
-
-Absolute and relative demographic changes by country.
-
-**Infographics**
-
-Combines key stats with visuals for easy public comprehension.
-
-Comparative male vs. female life expectancy statistics.
+| **Data Tables** | Provides exact quantitative numbers and precise changes. | Absolute and relative demographic changes by country. |
+| **Infographics** | Combines key stats with visuals for easy public comprehension. | Comparative male vs. female life expectancy statistics. |
 
 ----------
 
@@ -47,5 +40,5 @@ Comparative male vs. female life expectancy statistics.
 > **Key Takeaway**  
 > Geographic data collection relies on both primary fieldwork (field observations, interviews, ground photos) and advanced technology (remote sensing, aerial photography, GPS/smartphone metadata). Geographers synthesize quantitative data (census counts, tables, graphs) and qualitative sources (photographs, news media, interviews) to perform landscape analysis and understand human-environment interactions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MTQyNTMxXX0=
+eyJoaXN0b3J5IjpbOTc2Nzc5Mzg1XX0=
 -->
