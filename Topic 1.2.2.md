@@ -10,11 +10,8 @@
 
 > **Geospatial Data:** Information tied to specific locations on Earth, including natural landforms, infrastructure, and human activities/demographics.
 
-Presentation Format
-
-Strengths
-
-Use Cases / Examples
+| Presentation Format | Strengths | Use Cases / Examples |
+|-|-|-|
 
 **Maps**
 
@@ -63,5 +60,5 @@ Comparative male vs. female life expectancy statistics.
 > **Key Takeaway**  
 > Geographic data collection relies on both primary fieldwork (field observations, interviews, ground photos) and advanced technology (remote sensing, aerial photography, GPS/smartphone metadata). Geographers synthesize quantitative data (census counts, tables, graphs) and qualitative sources (photographs, news media, interviews) to perform landscape analysis and understand human-environment interactions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODc0ODgxNl19
+eyJoaXN0b3J5IjpbLTE2OTc4NzI2NTddfQ==
 -->
