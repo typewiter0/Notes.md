@@ -47,8 +47,14 @@ Once spatial data is gathered, geographers synthesize and integrate diverse sour
     -   What are the cultural practices of these groups?
     -   How will migration impact the local economy?
     -   What drives human movement and human-environment interactions?
-``abc
+```abc
+x:1
+T:Simple Scale
+M:4/4
+L:1/4
+K:C
+CDEF|
 ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjM3MjY5NF19
+eyJoaXN0b3J5IjpbLTEwMjk5MTkwMTNdfQ==
 -->
