@@ -2,7 +2,7 @@
 
 
 > Written with [StackEdit](https://stackedit.io/).
- # Topic 1.1: Introduction to Maps (Part 1: Maps, Scale & Location)
+# Topic 1.1: Introduction to Maps (Part 1: Maps, Scale & Location)
 
 ----------
 
@@ -71,5 +71,5 @@ _Show spatial aspects of information or phenomena._
 | **Relative Distance** | Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk). |
 | **Elevation** | Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjEyNzEzNCwxMDkxNjcxMTg5XX0=
+eyJoaXN0b3J5IjpbOTE5NDUwMjIyLDEwOTE2NzExODldfQ==
 -->
