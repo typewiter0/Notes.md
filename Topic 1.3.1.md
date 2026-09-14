@@ -30,21 +30,21 @@ Everyday & Professional Uses
 
 **Global Positioning System (GPS)**
 
-Receivers calculate exact position using satellite signals[cite: 4].
+Receivers calculate exact position using satellite signals.
 
-• Locating boundary lines[cite: 4]<br>• Vehicle & ship navigation[cite: 4]<br>• Mapping specific lines (trails) or points (hydrants)[cite: 4]
+• Locating boundary lines<br>• Vehicle & ship navigation<br>• Mapping specific lines (trails) or points (hydrants)
 
 **Remote Sensing**
 
-Cameras/sensors on aircraft or satellites capture Earth's surface images[cite: 4].
+Cameras/sensors on aircraft or satellites capture Earth's surface images.
 
-• Monitoring land use & land cover[cite: 4]<br>• Tracking environmental change & weather[cite: 4]<br>• Assessing spatial phenomenon spreads[cite: 4]
+• Monitoring land use & land cover<br>• Tracking environmental change & weather<br>• Assessing spatial phenomenon spreads
 
 **Geographic Information Systems (GIS)**
 
-Computer systems that store, analyze, and display layered geospatial data sets[cite: 4].
+Computer systems that store, analyze, and display layered geospatial data sets.
 
-• Urban planning[cite: 4]<br>• Analyzing crime hotspots & pollution[cite: 4]<br>• Transport & travel time analysis[cite: 4]
+• Urban planning<br>• Analyzing crime hotspots & pollution<br>• Transport & travel time analysis[cite: 4]
 
 **Location-Aware Applications**
 
@@ -60,5 +60,5 @@ Geographers use spatial tools alongside ground-level field observations to addre
 
 > **Community-Based Solutions:** Problem-solving approaches involving local residents[cite: 4]. They build local buy-in, ensure cultural acceptance, and increase long-term project success[cite: 4].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI0OTM5NzhdfQ==
+eyJoaXN0b3J5IjpbMTgxOTc3ODU5M119
 -->
