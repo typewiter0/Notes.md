@@ -34,9 +34,9 @@
 Geographers organize global space into broad world regions and nested subregions:
 
 -   **10 AP® Big Picture Regions:** North America, Central America, South America, Europe, Sub-Saharan Africa, North Africa/Middle East, Russian Federation, Asia, Oceania, Antarctica.
--   **Cultural Adaptations:** Central America (distinct cultural heritage from Spain/Portugal); Sub-Saharan Africa (distinguished from North Africa)[cite: 8].
--   **Subregions:** Smaller units sharing broad regional traits while maintaining distinct characteristics[cite: 8].
-    -   _Example:_ **Brazil** is in Latin America (shared Roman Catholicism), but forms a distinct subregion because its primary language is Portuguese rather than Spanish[cite: 8].
+-   **Cultural Adaptations:** Central America (distinct cultural heritage from Spain/Portugal); Sub-Saharan Africa (distinguished from North Africa).
+-   **Subregions:** Smaller units sharing broad regional traits while maintaining distinct characteristics.
+    -   _Example:_ **Brazil** is in Latin America (shared Roman Catholicism), but forms a distinct subregion because its primary language is Portuguese rather than Spanish.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTM0NzgwOF19
+eyJoaXN0b3J5IjpbLTEwNDU0NTY1NTVdfQ==
 -->
