@@ -8,12 +8,12 @@
 
 ### Spatial Distribution Patterns
 
-> **Distribution:** How phenomena are spread across an area[cite: 1].
+> **Distribution:** How phenomena are spread across an area.
 
--   **Clustered (Agglomerated):** Grouped in a concentrated area (e.g., border cities, food court restaurants)[cite: 1].
--   **Linear:** Arranged in a straight line (e.g., towns along a railroad)[cite: 1].
--   **Dispersed:** Spread out over a large area (e.g., large shopping malls in a city)[cite: 1].
--   **Circular:** Equally spaced from a central point (e.g., shopper draw radius)[cite: 1].
+-   **Clustered (Agglomerated):** Grouped in a concentrated area (e.g., border cities, food court restaurants).
+-   **Linear:** Arranged in a straight line (e.g., towns along a railroad).
+-   **Dispersed:** Spread out over a large area (e.g., large shopping malls in a city).
+-   **Circular:** Equally spaced from a central point (e.g., shopper draw radius).
 -   **Geometric:** Regular grid or block arrangement (e.g., Midwest road grids)[cite: 1].
 -   **Random:** No apparent structural pattern (e.g., distribution of pet owners)[cite: 1].
 
@@ -70,5 +70,5 @@ Area, shape, size, and direction are all slightly distorted[cite: 1].
 > **Key Takeaway**  
 > Maps are categorized into **reference maps** (general navigation) and **thematic maps** (data visualization like choropleth, dot, isoline, graduated symbol, and cartograms)[cite: 1]. Spatial analysis relies on recognizing patterns—such as clustered, linear, or dispersed distributions—alongside spatial metrics like scale, elevation, absolute/relative location, and distance[cite: 1]. Because projecting a 3D Earth onto a 2D plane creates unavoidable distortions, selecting an appropriate projection (Mercator, Peters, Conic, or Robinson) depends on whether direction, area, or visual balance is prioritized[cite: 1].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY4NzkzODddfQ==
+eyJoaXN0b3J5IjpbMTcxMDc5MjE3OSwtMjAxNjg3OTM4N119
 -->
