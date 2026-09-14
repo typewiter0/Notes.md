@@ -21,20 +21,20 @@
 
 #### 1. Reference Maps
 
-_Designed to refer to for general information about places[cite: 1]._
+_Designed to refer to for general information about places._
 
--   **Political Maps:** Show and label human-created boundaries and designations (countries, states, cities, capitals)[cite: 1].
--   **Physical Maps:** Show and label natural features (mountains, rivers, deserts)[cite: 1].
--   **Road Maps:** Show and label highways, streets, and alleys[cite: 1].
--   **Plat Maps:** Show and label property lines and land ownership details[cite: 1].
+-   **Political Maps:** Show and label human-created boundaries and designations (countries, states, cities, capitals).
+-   **Physical Maps:** Show and label natural features (mountains, rivers, deserts).
+-   **Road Maps:** Show and label highways, streets, and alleys.
+-   **Plat Maps:** Show and label property lines and land ownership details.
 
 ----------
 
 #### 2. Thematic Maps
 
-_Show spatial aspects of information or phenomena[cite: 1]._
+_Show spatial aspects of information or phenomena._
 
--   **Choropleth Map:** Uses various colors, shades, or patterns to show spatial data, rates, or quantitative values (e.g., percentage of English speakers)[cite: 1].
+-   **Choropleth Map:** Uses various colors, shades, or patterns to show spatial data, rates, or quantitative values (e.g., percentage of English speakers).
 -   **Dot Distribution Map:** Uses dots or symbols to show specific locations and quantities across space.
 -   **Graduated Symbol Map (Proportional Symbol):** Uses varying symbol sizes to indicate relative amounts; symbols center on data locations.
 -   **Isoline Map (Isometric):** Connects points of equal value with lines.
@@ -96,5 +96,5 @@ Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
 
 Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTI5MzY5NV19
+eyJoaXN0b3J5IjpbNjU0NjY1MTE1XX0=
 -->
