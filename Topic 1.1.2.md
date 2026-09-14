@@ -23,7 +23,7 @@
 
 > All maps distort reality because they project a 3D sphere onto a 2D flat surface. Cartographers choose which properties to preserve (area, shape, distance, or direction).
 
-Projection
+|Projection|
 
 Purpose
 
@@ -33,9 +33,9 @@ Weaknesses / Distortions
 
 **Mercator**
 
-Navigation[cite: 1]
+Navigation
 
-Directions are accurate; grid lines meet at right angles[cite: 1].
+Directions are accurate; grid lines meet at right angles.
 
 Land masses near poles appear severely enlarged (e.g., Greenland appears same size as Africa)[cite: 1].
 
@@ -70,5 +70,5 @@ Area, shape, size, and direction are all slightly distorted[cite: 1].
 > **Key Takeaway**  
 > Maps are categorized into **reference maps** (general navigation) and **thematic maps** (data visualization like choropleth, dot, isoline, graduated symbol, and cartograms)[cite: 1]. Spatial analysis relies on recognizing patterns—such as clustered, linear, or dispersed distributions—alongside spatial metrics like scale, elevation, absolute/relative location, and distance[cite: 1]. Because projecting a 3D Earth onto a 2D plane creates unavoidable distortions, selecting an appropriate projection (Mercator, Peters, Conic, or Robinson) depends on whether direction, area, or visual balance is prioritized[cite: 1].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjYyNzI3OSwtMjAxNjg3OTM4N119
+eyJoaXN0b3J5IjpbMTM3NTMwODk5MSwtMjAxNjg3OTM4N119
 -->
