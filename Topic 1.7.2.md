@@ -9,19 +9,19 @@
 ### Overlap, Transitions, and Misconceptions
 
 > **Regions as Generalizations**  
-> Regional labels summarize broad patterns but can mask significant local diversity[cite: 8].
+> Regional labels summarize broad patterns but can mask significant local diversity.
 
--   **Masking Internal Diversity:** Describing the U.S. as an "English-speaking country" ignores that ~20% of the population speaks another language at home or is bilingual[cite: 8].
--   **Transitional Boundaries:** Characteristics blend across borders[cite: 8]. Borderlands between the U.S. and Mexico feature widespread bilingualism rather than an abrupt linguistic wall[cite: 8].
--   **Overlapping Identities:** A single location belongs to multiple nested regions simultaneously[cite: 8]:
-    -   _Example (Georgia, USA):_ Warm climate region, "The South" (cultural/vernacular), "Sun Belt" (economic), United States (political formal)[cite: 8].
+-   **Masking Internal Diversity:** Describing the U.S. as an "English-speaking country" ignores that ~20% of the population speaks another language at home or is bilingual.
+-   **Transitional Boundaries:** Characteristics blend across borders. Borderlands between the U.S. and Mexico feature widespread bilingualism rather than an abrupt linguistic wall.
+-   **Overlapping Identities:** A single location belongs to multiple nested regions simultaneously:
+    -   _Example (Georgia, USA):_ Warm climate region, "The South" (cultural/vernacular), "Sun Belt" (economic), United States (political formal).
 
 ----------
 
 ### Geographic Perspectives: Thinking About Distance
 
 > **Perception of Distance**  
-> Distance is subjective and influenced by context, technological advancement, and scale of analysis[cite: 8].
+> Distance is subjective and influenced by context, technological advancement, and scale of analysis.
 
 #### Factors Influencing Distance Perception:
 
@@ -46,5 +46,5 @@ _Based on South Central US Regional Data Analysis:_
 > **Key Takeaway**  
 > Geographers classify space into **formal** (uniform traits), **functional** (nodal connections), and **perceptual** (informal/vernacular) regions. Regions reflect subjective boundaries, overlap constantly, and function as generalizations that can obscure local variations and borderland transition zones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY2NDQ5MzJdfQ==
+eyJoaXN0b3J5IjpbMTE3NDMyMDE1XX0=
 -->
