@@ -27,9 +27,7 @@
 | - | - | - | - |
 | **Mercator** | Navigation | Directions are accurate; grid lines meet at right angles. | Land masses near poles appear severely enlarged (e.g., Greenland appears same size as Africa). |
 | **Peters** | Spatial distribution / area |True size of land masses is accurate. | Shapes are heavily distorted, especially near the poles. |
-| **Conic** | General midlatitude use |
-
-Lines of longitude converge; size and shape are balanced and close to reality[cite: 1].
+| **Conic** | General midlatitude use | Lines of longitude converge; size and shape are balanced and close to reality.|
 
 Direction is not constant; longitude lines converge at only one pole[cite: 1].
 
@@ -48,5 +46,6 @@ Area, shape, size, and direction are all slightly distorted[cite: 1].
 > **Key Takeaway**  
 > Maps are categorized into **reference maps** (general navigation) and **thematic maps** (data visualization like choropleth, dot, isoline, graduated symbol, and cartograms)[cite: 1]. Spatial analysis relies on recognizing patterns—such as clustered, linear, or dispersed distributions—alongside spatial metrics like scale, elevation, absolute/relative location, and distance[cite: 1]. Because projecting a 3D Earth onto a 2D plane creates unavoidable distortions, selecting an appropriate projection (Mercator, Peters, Conic, or Robinson) depends on whether direction, area, or visual balance is prioritized[cite: 1].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjg2ODc5LC0yMDE2ODc5Mzg3XX0=
+eyJoaXN0b3J5IjpbMTIzNzYxOTQxOSwxOTEyODY4NzksLTIwMT
+Y4NzkzODddfQ==
 -->
