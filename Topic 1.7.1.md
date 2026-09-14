@@ -24,7 +24,7 @@
 |Region Type|Alternative Name|Definition|Key Examples|
 |-|-|-|-|
 |**Formal**|Uniform / Homogeneous|United by one or more specific shared physical, cultural, economic, or political traits.|• **Political:** Brazil<br>• **Physical:** Sahara Desert<br>• **Cultural:** Yoruba-speaking area in Nigeria<br>• **Economic:** Gold Coast (Ghana)
-|**Functional**|Nodal|Organized around a central focal point (node) and linked by flows/networks.|• **Commerce:** Pizza delivery boundary (shop = node)<br>• **Political:** State/country governed from a capital city[cite: 8]<br>• **Transit:** Airport flight connectivity network[cite: 8]
+|**Functional**|Nodal|Organized around a central focal point (node) and linked by flows/networks.|• **Commerce:** Pizza delivery boundary (shop = node)<br>• **Political:** State/country governed from a capital city<br>• **Transit:** Airport flight connectivity network|
 
 **Perceptual**
 
@@ -45,5 +45,5 @@ Geographers organize global space into broad world regions and nested subregions
 -   **Subregions:** Smaller units sharing broad regional traits while maintaining distinct characteristics[cite: 8].
     -   _Example:_ **Brazil** is in Latin America (shared Roman Catholicism), but forms a distinct subregion because its primary language is Portuguese rather than Spanish[cite: 8].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM0NzY1ODNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTU4MzE1MDNdfQ==
 -->
