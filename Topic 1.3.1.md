@@ -24,29 +24,10 @@
 
 | Technology | Description | Everyday & Professional Uses |
 |-|-|-|
-**Global Positioning System (GPS)**
-
-Receivers calculate exact position using satellite signals.
-
-• Locating boundary lines<br>• Vehicle & ship navigation<br>• Mapping specific lines (trails) or points (hydrants)
-
-**Remote Sensing**
-
-Cameras/sensors on aircraft or satellites capture Earth's surface images.
-
-• Monitoring land use & land cover<br>• Tracking environmental change & weather<br>• Assessing spatial phenomenon spreads
-
-**Geographic Information Systems (GIS)**
-
-Computer systems that store, analyze, and display layered geospatial data sets.
-
-• Urban planning<br>• Analyzing crime hotspots & pollution<br>• Transport & travel time analysis
-
-**Location-Aware Applications**
-
-Mobile software utilizing location data from smartphones/devices.
-
-• Routing & business recommendations<br>• Contact tracing for disease exposure<br>• Geotagging photos
+| **Global Positioning System (GPS)** | Receivers calculate exact position using satellite signals. | • Locating boundary lines<br>• Vehicle & ship navigation<br>• Mapping specific lines (trails) or points (hydrants) |
+| **Remote Sensing** | Cameras/sensors on aircraft or satellites capture Earth's surface images. | • Monitoring land use & land cover<br>• Tracking environmental change & weather<br>• Assessing spatial phenomenon spreads |
+| **Geographic Information Systems (GIS)** | Computer systems that store, analyze, and display layered geospatial data sets. | • Urban planning<br>• Analyzing crime hotspots & pollution<br>• Transport & travel time analysis |
+| **Location-Aware Applications** | Mobile software utilizing location data from smartphones/devices. | • Routing & business recommendations<br>• Contact tracing for disease exposure<br>• Geotagging photos |
 
 ----------
 
@@ -56,5 +37,5 @@ Geographers use spatial tools alongside ground-level field observations to addre
 
 > **Community-Based Solutions:** Problem-solving approaches involving local residents. They build local buy-in, ensure cultural acceptance, and increase long-term project success.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY3OTg2MjJdfQ==
+eyJoaXN0b3J5IjpbMzg3OTQwMzcyXX0=
 -->
