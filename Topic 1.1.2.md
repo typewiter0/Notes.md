@@ -14,14 +14,14 @@
 -   **Linear:** Arranged in a straight line (e.g., towns along a railroad).
 -   **Dispersed:** Spread out over a large area (e.g., large shopping malls in a city).
 -   **Circular:** Equally spaced from a central point (e.g., shopper draw radius).
--   **Geometric:** Regular grid or block arrangement (e.g., Midwest road grids)[cite: 1].
--   **Random:** No apparent structural pattern (e.g., distribution of pet owners)[cite: 1].
+-   **Geometric:** Regular grid or block arrangement (e.g., Midwest road grids).
+-   **Random:** No apparent structural pattern (e.g., distribution of pet owners).
 
 ----------
 
 ### Map Projections Comparison
 
-> All maps distort reality because they project a 3D sphere onto a 2D flat surface[cite: 1]. Cartographers choose which properties to preserve (area, shape, distance, or direction)[cite: 1].
+> All maps distort reality because they project a 3D sphere onto a 2D flat surface. Cartographers choose which properties to preserve (area, shape, distance, or direction).
 
 Projection
 
@@ -70,5 +70,5 @@ Area, shape, size, and direction are all slightly distorted[cite: 1].
 > **Key Takeaway**  
 > Maps are categorized into **reference maps** (general navigation) and **thematic maps** (data visualization like choropleth, dot, isoline, graduated symbol, and cartograms)[cite: 1]. Spatial analysis relies on recognizing patterns—such as clustered, linear, or dispersed distributions—alongside spatial metrics like scale, elevation, absolute/relative location, and distance[cite: 1]. Because projecting a 3D Earth onto a 2D plane creates unavoidable distortions, selecting an appropriate projection (Mercator, Peters, Conic, or Robinson) depends on whether direction, area, or visual balance is prioritized[cite: 1].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDc5MjE3OSwtMjAxNjg3OTM4N119
+eyJoaXN0b3J5IjpbLTcwMjYyNzI3OSwtMjAxNjg3OTM4N119
 -->
