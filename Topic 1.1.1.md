@@ -1,19 +1,19 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+>> Written with [StackEdit](https://stackedit.io/).
 > # Topic 1.1: Introduction to Maps (Part 1: Maps, Scale & Location)
 
 ----------
 
-> **Essential Question:** What information is presented in different types of maps, and how do those maps show spatial patterns, the power of geographic data, and relationships among places?[cite: 1]
+> **Essential Question:** What information is presented in different types of maps, and how do those maps show spatial patterns, the power of geographic data, and relationships among places?
 
 ----------
 
 ### Core Concepts & Key Terms
 
 > **Spatial Patterns**  
-> General arrangements of studied phenomena and the repeated sequence of events/processes that create them[cite: 1]. Maps are the primary tool geographers use to analyze and communicate spatial data[cite: 1].
+> General arrangements of studied phenomena and the repeated sequence of events/processes that create them. Maps are the primary tool geographers use to analyze and communicate spatial data.
 
 ----------
 
@@ -96,5 +96,5 @@ Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
 
 Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NjY1MTE1XX0=
+eyJoaXN0b3J5IjpbMTA5MTY3MTE4OV19
 -->
