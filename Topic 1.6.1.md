@@ -29,24 +29,17 @@
 |**Global**|The entire world.|• Global "Earth at Night" imagery<br>• World population density map
 |**World Regional**|Multiple countries within a region.|• North America<br>• South Asia|
 |**National**|One individual country.|• United States<br>• Thailand|
-|**National Regional**|A sub-portion or region within a single country[cite.
-
-• The U.S. Midwest[cite: 7]<br>• Eastern China[cite: 7]
-
-**Local**
-
-A state/province, county, city, or neighborhood[cite: 7].
-
-• State of Tennessee[cite: 7]<br>• City of Moscow[cite: 7]
+|**National Regional**|A sub-portion or region within a single country.|• The U.S. Midwest<br>• Eastern China|
+|**Local**|A state/province, county, city, or neighborhood.|• State of Tennessee<br>• City of Moscow|
 
 ----------
 
 ### Data Aggregation
 
-> **Data Aggregation:** The grouping and organizing of spatial data into units or categories (such as census tracts, counties, states, or countries) for mapping and visualization[cite: 7].
+> **Data Aggregation:** The grouping and organizing of spatial data into units or categories (such as census tracts, counties, states, or countries) for mapping and visualization.
 
--   **Why Aggregation Matters:** The level of data aggregation determines how generalized or detailed a spatial pattern will appear[cite: 7].
--   **Global vs. Local Insights:** A world map aggregated by country can show global trends (e.g., African countries averaging <65 years life expectancy vs. North America averaging >75 years), but conceals variation within individual communities[cite: 7].
+-   **Why Aggregation Matters:** The level of data aggregation determines how generalized or detailed a spatial pattern will appear.
+-   **Global vs. Local Insights:** A world map aggregated by country can show global trends (e.g., African countries averaging <65 years life expectancy vs. North America averaging >75 years), but conceals variation within individual communities.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MjgzMDE5XX0=
+eyJoaXN0b3J5IjpbLTE5MjgzMjM0MDddfQ==
 -->
