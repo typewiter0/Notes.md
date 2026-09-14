@@ -51,7 +51,7 @@ _Show spatial aspects of information or phenomena._
 
 -   **Cartographic Scale Types:**
     -   **Words:** e.g., _"1 inch equals 10 miles"_
-    -   **Ratio/Fraction:** e.g., `1:200,000` or `1/200,000`
+    -   **Ratio/Fraction:** e.g., $1:200,000$ or $\frac1{200,000]$
     -   **Linear / Graphic:** A line bar indicating actual ground distance.
 -   **Scale Differences:**
     -   **Small-Scale Maps:** Show a _larger amount of area_ with _less detail_ (e.g., world map).
@@ -71,5 +71,6 @@ _Show spatial aspects of information or phenomena._
 | **Relative Distance** | Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk). |
 | **Elevation** | Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NDUwMjIyLDEwOTE2NzExODldfQ==
+eyJoaXN0b3J5IjpbMTI0Mzg1ODA5Myw5MTk0NTAyMjIsMTA5MT
+Y3MTE4OV19
 -->
