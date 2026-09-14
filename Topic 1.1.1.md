@@ -50,12 +50,12 @@ _Show spatial aspects of information or phenomena[cite: 1]._
 > **Scale:** The ratio between real-world size and map size[cite: 1].
 
 -   **Cartographic Scale Types:**
-    -   **Words:** e.g., _"1 inch equals 10 miles"_[cite: 1]
-    -   **Ratio/Fraction:** e.g., `1:200,000` or `1/200,000`[cite: 1]
-    -   **Linear / Graphic:** A line bar indicating actual ground distance[cite: 1].
+    -   **Words:** e.g., _"1 inch equals 10 miles"_
+    -   **Ratio/Fraction:** e.g., `1:200,000` or `1/200,000`
+    -   **Linear / Graphic:** A line bar indicating actual ground distance.
 -   **Scale Differences:**
-    -   **Small-Scale Maps:** Show a _larger amount of area_ with _less detail_ (e.g., world map)[cite: 1].
-    -   **Large-Scale Maps:** Show a _smaller amount of area_ with a _greater amount of detail_ (e.g., city map)[cite: 1].
+    -   **Small-Scale Maps:** Show a _larger amount of area_ with _less detail_ (e.g., world map).
+    -   **Large-Scale Maps:** Show a _smaller amount of area_ with a _greater amount of detail_ (e.g., city map).
 
 ----------
 
@@ -66,11 +66,11 @@ Definition & Features
 
 **Absolute Location**
 
-Precise spot according to a global grid coordinate system[cite: 1].
+Precise spot according to a global grid coordinate system.
 
 **Latitude**
 
-Distance north or south of the Equator ($0^\circ$ to $90^\circ$ N/S)[cite: .
+Distance north or south of the Equator ($0^\circ$ to $90^\circ$ N/S).
 
 **Longitude**
 
@@ -96,5 +96,5 @@ Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
 
 Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTEwNjAzN119
+eyJoaXN0b3J5IjpbLTEzOTAxMTY0MDFdfQ==
 -->
