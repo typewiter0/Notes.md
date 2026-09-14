@@ -47,7 +47,7 @@
     -   _Physical Features:_ Fernandina Beach (located on a beach).
     -   _History/Culture:_ Iowa (named for a Native American tribe), Pikes Peak (named for explorer Zebulon Pike).
     -   _Misleading/Idealized:_ Greenland (icy) vs. Iceland (greener); Lake City, Iowa (not on a lake).
-    -   _Controversies:_ The debate over renaming Mount McKinley back to its traditional Native Koyukon name, _Denali_ (restored in 2015)[cite:.
+    -   _Controversies:_ The debate over renaming Mount McKinley back to its traditional Native Koyukon name, _Denali_ (restored in 2015).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjQ2NDc1MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI4MjQ2OTExMSw3MzA5OTgxMTZdfQ==
 -->
