@@ -35,19 +35,19 @@ _Designed to refer to for general information about places[cite: 1]._
 _Show spatial aspects of information or phenomena[cite: 1]._
 
 -   **Choropleth Map:** Uses various colors, shades, or patterns to show spatial data, rates, or quantitative values (e.g., percentage of English speakers)[cite: 1].
--   **Dot Distribution Map:** Uses dots or symbols to show specific locations and quantities across space[cite: 1].
--   **Graduated Symbol Map (Proportional Symbol):** Uses varying symbol sizes to indicate relative amounts; symbols center on data locations[cite: 1].
--   **Isoline Map (Isometric):** Connects points of equal value with lines[cite: 1].
-    -   _Close lines_ = rapid change[cite: 1].
-    -   _Farther lines_ = minimal change[cite: 1].
-    -   _Examples:_ Topographic maps (elevation contours), weather maps (barometric pressure, temperature)[cite: 1].
--   **Cartogram:** Country/unit sizes are distorted according to a specific statistic (e.g., total population)[cite: 1].
+-   **Dot Distribution Map:** Uses dots or symbols to show specific locations and quantities across space.
+-   **Graduated Symbol Map (Proportional Symbol):** Uses varying symbol sizes to indicate relative amounts; symbols center on data locations.
+-   **Isoline Map (Isometric):** Connects points of equal value with lines.
+    -   _Close lines_ = rapid change.
+    -   _Farther lines_ = minimal change.
+    -   _Examples:_ Topographic maps (elevation contours), weather maps (barometric pressure, temperature).
+-   **Cartogram:** Country/unit sizes are distorted according to a specific statistic (e.g., total population).
 
 ----------
 
 ### Map Scale
 
-> **Scale:** The ratio between real-world size and map size[cite: 1].
+> **Scale:** The ratio between real-world size and map size.
 
 -   **Cartographic Scale Types:**
     -   **Words:** e.g., _"1 inch equals 10 miles"_
@@ -96,5 +96,5 @@ Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
 
 Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAxMTY0MDFdfQ==
+eyJoaXN0b3J5IjpbMTY2OTI5MzY5NV19
 -->
