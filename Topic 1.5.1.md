@@ -19,15 +19,8 @@
 
 |Resource Type|Definition|Key Examples|
 |-|-|-|
-|**Renewable Resources**|Unlimited resources that will not be depleted by human use.|
-
-• Air / Wind power<br>• Surface water & hydroelectricity<br>• Solar energy<br>• Biomass (wood, crops, sewage)
-
-**Non-Renewable Resources**
-
-Limited resources that can be exhausted by human consumption.
-
-• Fossil fuels (petroleum, natural gas, coal)<br>• Earth minerals (gold, copper, silver)<br>• Deep aquifer underground fresh water<br>• Soil
+|**Renewable Resources**|Unlimited resources that will not be depleted by human use.|• Air / Wind power<br>• Surface water & hydroelectricity<br>• Solar energy<br>• Biomass (wood, crops, sewage)|
+|**Non-Renewable Resources**|Limited resources that can be exhausted by human consumption.|• Fossil fuels (petroleum, natural gas, coal)<br>• Earth minerals (gold, copper, silver)<br>• Deep aquifer underground fresh water<br>• Soil|
 
 -   **Uneven Access:** Natural resources are distributed unevenly globally. A nation's development level, technology, and financial resources dictate whether it can access and utilize resources within its borders.
 
@@ -42,5 +35,5 @@ Limited resources that can be exhausted by human consumption.
     -   **Built Environment:** Physical human-made artifacts on the landscape (e.g., buildings, roads, signs, farms, fences).
     -   **Cultural Landscape:** The unique built environment created when human cultures interact with their distinct physical surroundings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzc4ODI0MV19
+eyJoaXN0b3J5IjpbMjk2MTMzMTddfQ==
 -->
