@@ -64,30 +64,12 @@ _Show spatial aspects of information or phenomena._
 | ---- | --------------------- |
 | **Absolute Location** | Precise spot according to a global grid coordinate system. |
 | **Latitude** | Distance north or south of the Equator ($0^\circ$ to $90^\circ$ N/S). |
-
-**Longitude**
-
-Distance east or west of the Prime Meridian ($0^\circ$ to $180^\circ$ E/W).
-
-**International Date Line**
-
-Roughly follows $180^\circ$ longitude with deviations for borders.
-
-**Relative Location**
-
-Position described in relation to other features. Defined by **connectivity** (road/transport links) and **accessibility** (ease of interaction). _Can change over time (e.g., ghost towns)._
-
-**Absolute Distance**
-
-Exact physical measurement in miles, kilometers, feet, or meters.
-
-**Relative Distance**
-
-Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
-
-**Elevation**
-
-Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
+| **Longitude** |Distance east or west of the Prime Meridian ($0^\circ$ to $180^\circ$ E/W). |
+| **International Date Line** | Roughly follows $180^\circ$ longitude with deviations for borders. |
+| **Relative Location** | Position described in relation to other features. Defined by **connectivity** (road/transport links) and **accessibility** (ease of interaction). _Can change over time (e.g., ghost towns)._ |
+| **Absolute Distance** | Exact physical measurement in miles, kilometers, feet, or meters. |
+| **Relative Distance** | Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk). |
+| **Elevation** | Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE3MTY0NCwxMDkxNjcxMTg5XX0=
+eyJoaXN0b3J5IjpbMTQyNjEyNzEzNCwxMDkxNjcxMTg5XX0=
 -->
