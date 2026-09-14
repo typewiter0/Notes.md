@@ -13,22 +13,16 @@
 ### The Concept of Regionalization
 
 > **Regionalization**  
-> The process of dividing and categorizing space into smaller areal units based on unifying traits, shared boundaries, and human creation[cite: 8].
+> The process of dividing and categorizing space into smaller areal units based on unifying traits, shared boundaries, and human creation.
 
--   **Dynamic Nature:** Boundaries are rarely fixed; they shift based on who defines them and the scale of analysis being applied[cite: 8]. Overlapping regional boundaries can cause political, social, or resource tension[cite: 8].
+-   **Dynamic Nature:** Boundaries are rarely fixed; they shift based on who defines them and the scale of analysis being applied. Overlapping regional boundaries can cause political, social, or resource tension.
 
 ----------
 
 ### The Three Types of Regions
 
-Region Type
-
-Alternative Name
-
-Definition
-
-Key Examples
-
+|Region Type|Alternative Name|Definition|Key Examples|
+|-|-|-|-|
 **Formal**
 
 Uniform / Homogeneous
@@ -64,5 +58,5 @@ Geographers organize global space into broad world regions and nested subregions
 -   **Subregions:** Smaller units sharing broad regional traits while maintaining distinct characteristics[cite: 8].
     -   _Example:_ **Brazil** is in Latin America (shared Roman Catholicism), but forms a distinct subregion because its primary language is Portuguese rather than Spanish[cite: 8].
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMyMTU3NV19
+eyJoaXN0b3J5IjpbLTEzNDk0ODc3ODZdfQ==
 -->
