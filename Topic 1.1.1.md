@@ -60,17 +60,10 @@ _Show spatial aspects of information or phenomena._
 ----------
 
 ### Location, Distance & Elevation
-Term
-
-Definition & Features
-
-**Absolute Location**
-
-Precise spot according to a global grid coordinate system.
-
-**Latitude**
-
-Distance north or south of the Equator ($0^\circ$ to $90^\circ$ N/S).
+| Term | Definition & Features |
+| ---- | --------------------- |
+| **Absolute Location** | Precise spot according to a global grid coordinate system. |
+| **Latitude** | Distance north or south of the Equator ($0^\circ$ to $90^\circ$ N/S). |
 
 **Longitude**
 
@@ -96,5 +89,5 @@ Degree of nearness based on time or money (e.g., 10-min drive vs. 25-min walk).
 
 Distance above sea level; impacts climate, weather, and crop growth. Depicted using contour lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0OTE3MTk3LDEwOTE2NzExODldfQ==
+eyJoaXN0b3J5IjpbLTIxNDE3MTY0NCwxMDkxNjcxMTg5XX0=
 -->
