@@ -30,35 +30,24 @@
 > 
 > **Place:** Specific human and physical characteristics of a location.
 
-| Concept | Definition
+| Concept | Definition | Example (Riyadh, Saudi Arabia) |
+|-|-|-|
+|**Site**|Physical characteristics at the immediate location (e.g., climate, soil, labor force, buildings).|Desert climate, large labor force, modern Islamic city infrastructure.|
+|**Situation**|Location of a place relative to its surroundings and connectivity to other places|Located in the center of the Arabian Peninsula, positioned between Africa and Asia, and connected globally via a modern airport.|
 
-Example (Riyadh, Saudi Arabia)
-
-**Site**
-
-Physical characteristics at the immediate location (e.g., climate, soil, labor force, buildings)[cite: 5].
-
-Desert climate, large labor force, modern Islamic city infrastructure[cite: 5].
-
-**Situation**
-
-Location of a place relative to its surroundings and connectivity to other places[cite: 5].
-
-Located in the center of the Arabian Peninsula, positioned between Africa and Asia, and connected globally via a modern airport[cite: 5].
-
-> _Note on Situation Changes:_ The 1950s U.S. Interstate Highway System changed many small towns' situation—towns on old rail lines lost importance, while towns along interstates grew as trade hubs[cite: 5].
+> _Note on Situation Changes:_ The 1950s U.S. Interstate Highway System changed many small towns' situation—towns on old rail lines lost importance, while towns along interstates grew as trade hubs.
 
 ----------
 
 ### Perception of Place & Toponyms
 
--   **Sense of Place:** Human emotional perception of place characteristics based on personal beliefs and background[cite: 5].
--   **Placelessness:** Occurs when a place lacks uniqueness or inspires no strong emotional ties[cite: 5].
--   **Toponyms (Place Names):** Designate locations and offer insights into physical geography, history, culture, or ownership[cite: 5]:
-    -   _Physical Features:_ Fernandina Beach (located on a beach)[cite: 5].
-    -   _History/Culture:_ Iowa (named for a Native American tribe), Pikes Peak (named for explorer Zebulon Pike)[cite: 5].
-    -   _Misleading/Idealized:_ Greenland (icy) vs. Iceland (greener); Lake City, Iowa (not on a lake)[cite: 5].
-    -   _Controversies:_ The debate over renaming Mount McKinley back to its traditional Native Koyukon name, _Denali_ (restored in 2015)[cite: 5].
+-   **Sense of Place:** Human emotional perception of place characteristics based on personal beliefs and background.
+-   **Placelessness:** Occurs when a place lacks uniqueness or inspires no strong emotional ties.
+-   **Toponyms (Place Names):** Designate locations and offer insights into physical geography, history, culture, or ownership:
+    -   _Physical Features:_ Fernandina Beach (located on a beach).
+    -   _History/Culture:_ Iowa (named for a Native American tribe), Pikes Peak (named for explorer Zebulon Pike).
+    -   _Misleading/Idealized:_ Greenland (icy) vs. Iceland (greener); Lake City, Iowa (not on a lake).
+    -   _Controversies:_ The debate over renaming Mount McKinley back to its traditional Native Koyukon name, _Denali_ (restored in 2015)[cite:.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUyNDc4MjQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQzNjQ2NDc1MSw3MzA5OTgxMTZdfQ==
 -->
